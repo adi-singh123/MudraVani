@@ -99,7 +99,7 @@ We welcome contributions! If you'd like to improve MudraVani, please **fork the 
 
 ## 📞 Contact
 
-For queries, feel free to reach out at mailto\:amanjiwanshu@gmail.com or open an issue in this repo.
+For queries, feel free to reach out at amanjiwanshu@gmail.com or open an issue in this repo.
 
 🌟 **If you like this project, give it a star!** ⭐
 
