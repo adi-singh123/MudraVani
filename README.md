@@ -7,11 +7,17 @@ MudraVani is an AI-driven system designed to **recognize and interpret Indian Si
 🚀 Features
 
 ✔ Real-Time Sign Recognition – Uses AI to detect and interpret ISL signs instantly.
+
 ✔ Alphabet Recognition – Accurately identifies individual letters in ISL.
+
 ✔ Word Formation Capability – Converts sequences of gestures into meaningful words and sentences.
+
 ✔ Sign-to-Speech Conversion – Converts recognized gestures into audible speech output.
+
 ✔ Interactive UI – A clean, user-friendly React frontend for easy interaction.
+
 ✔ Lightweight & Fast – Optimized model for smooth performance on various devices.
+
 ✔ Accessible to All – Aimed at breaking communication barriers between the DHH community and the hearing world.
 ---
 
