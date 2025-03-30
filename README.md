@@ -62,7 +62,7 @@ npm start
 
 ### 5️⃣ Access MudraVani
 
-Open [**http://localhost:3000/**](http://localhost:3000/) in your browser and start recognizing ISL signs! 🎉
+Open [**http://localhost:3000/**](http://localhost:3000/) or your any given port number in your browser and start recognizing ISL signs! 🎉
 
 ---
 
@@ -90,10 +90,10 @@ We welcome contributions! If you'd like to improve MudraVani, please **fork the 
 
 ### Contributors 👥
 
-- Nihal Jaiswal – AI/ML Expert
+- [Nihal Jaiswal] – AI/ML Expert
 - [Aditya Singh](https://github.com/adi-singh123) – Frontend
-- [Jiwanshu Kumar]() – Backend
-- Prajjwal Srivatava - UI/UX
+- [Jiwanshu Kumar](https://github.com/jiwansh) – Backend
+- [Prajjwal Srivatava] - UI/UX
 
 ---
 
