@@ -27,6 +27,7 @@ MudraVani is an AI-driven system designed to **recognize and interpret Indian Si
 
 ---
 
+
 ## 🎯 How It Works
 
 1️⃣ **Hand Gesture Detection**: The system captures hand movements via a webcam.\
