@@ -91,8 +91,8 @@ We welcome contributions! If you'd like to improve MudraVani, please **fork the 
 ### Contributors 👥
 
 - Nihal Jaiswal – AI/ML Expert
-- Aditya Singh – Frontend
-- Jiwanshu Kumar – Backend
+- [Aditya Singh](https://github.com/adi-singh123) – Frontend
+- [Jiwanshu Kumar]() – Backend
 - Prajjwal Srivatava - UI/UX
 
 ---
