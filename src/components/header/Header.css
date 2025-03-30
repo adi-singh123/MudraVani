@@ -102,3 +102,24 @@
         line-height: 16px;
     }
 }
+
+@keyframes typing {
+    0% { width: 0; }
+    50% { width: 100%; }
+    100% { width: 0; }
+}
+
+.text-container {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid black;
+    display: inline-block;
+    animation: typing 3s infinite steps(20);
+}
+
+  
+  
+  

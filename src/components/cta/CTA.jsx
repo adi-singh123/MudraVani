@@ -13,7 +13,7 @@ const CTA = () => {
 
             <div className="signlang_cta-button">
                 <button>
-                    <Link to="/detect">
+                    <Link to="">
                       Try Now !
                     </Link>
                 </button>

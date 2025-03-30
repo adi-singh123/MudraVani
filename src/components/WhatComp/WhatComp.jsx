@@ -1,5 +1,5 @@
 import React from "react";
-import "./WhatComp.css"
+import "./WhatComp.css";
 import { Feature } from "../../components";
 import { WhatfeatureData } from "../../data/FeaturesData";
 
@@ -9,17 +9,15 @@ const WhatComp = () => {
       <div className="signlang__whatsignlang-feature">
         <Feature
           title="What is Sign Language"
-          text="Sign Language is a visual language using hand gestures, facial expressions, and body movements to communicate. It is recognized as an official language in many countries and is primarily used by people who are deaf or hard of hearing."
+          text="What is Sign Language? 🖐️  
+Sign Language is a visual language using hand gestures, facial expressions, and body movements* to communicate. Indian Sign Language (ISL) is widely used by the Deaf community in India, enabling *inclusive and barrier-free communication. It’s a complete language* with its own grammar, making interactions seamless in daily life"
         />
       </div>
 
       <div className="signlang__whatsignlang-container">
-        {
-          WhatfeatureData.map((data,i)=>(
-            <Feature title={data.title} text={data.text} key={i*201}/>
-          ))
-        }
-        
+        {WhatfeatureData.map((data, i) => (
+          <Feature title={data.title} text={data.text} key={i * 201} />
+        ))}
       </div>
     </div>
   );

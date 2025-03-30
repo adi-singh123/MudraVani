@@ -1,5 +1,5 @@
 import React from 'react'
-import {Header,WhatComp, Features, CTA, Working, Testimonials} from '.././index';
+import {Header,WhatComp, Features, CTA, Working, Testimonials} from '../index';
 
 const Home = () => {
     return (

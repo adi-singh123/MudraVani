@@ -12,9 +12,9 @@ const Footer = () => {
 
       <div className="signlang__footer-copyright">
         <h3>
-          &#169; &nbsp;2023
+          &#169; &nbsp;2025
           &nbsp;&nbsp;
-          <span>SLR</span>
+          <span>UME</span>
           &nbsp;&nbsp;
           All rights reserved.
         </h3>
