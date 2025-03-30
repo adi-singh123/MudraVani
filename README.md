@@ -18,7 +18,6 @@ MudraVani is an AI-driven system designed to **recognize and interpret Indian Si
 
 ✔ Lightweight & Fast – Optimized model for smooth performance on various devices.
 
-✔ Accessible to All – Aimed at breaking communication barriers between the DHH community and the hearing world.
 ---
 
 🛠 Tech Stack
